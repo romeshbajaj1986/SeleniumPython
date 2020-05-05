@@ -1,0 +1,56 @@
+{
+  "uid" : "156105da36f35730",
+  "name" : "test_ABC[data1]",
+  "fullName" : "TestCases02.test_TC02DataDrivenExcel#test_ABC",
+  "historyId" : "8ae5b9c0187179ea851a2edb5bc2c0ee",
+  "time" : {
+    "start" : 1588562968604,
+    "stop" : 1588563004323,
+    "duration" : 35719
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases02"
+  }, {
+    "name" : "suite",
+    "value" : "test_TC02DataDrivenExcel"
+  }, {
+    "name" : "host",
+    "value" : "Romesh"
+  }, {
+    "name" : "thread",
+    "value" : "448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases02.test_TC02DataDrivenExcel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "['user2', 'user2@gmail.com']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "156105da36f35730.json",
+  "parameterValues" : [ "['user2', 'user2@gmail.com']" ]
+}

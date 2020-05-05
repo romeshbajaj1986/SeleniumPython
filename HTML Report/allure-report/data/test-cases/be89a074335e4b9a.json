@@ -1,0 +1,53 @@
+{
+  "uid" : "be89a074335e4b9a",
+  "name" : "testValidateRegistration",
+  "fullName" : "TestCases.test_TC002_RegistartionValidateData#testValidateRegistration",
+  "historyId" : "dcd2bca2ed5dec07c56d3298fd7f1821",
+  "time" : {
+    "start" : 1588562822602,
+    "stop" : 1588562852191,
+    "duration" : 29589
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_TC002_RegistartionValidateData"
+  }, {
+    "name" : "host",
+    "value" : "Romesh"
+  }, {
+    "name" : "thread",
+    "value" : "448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_TC002_RegistartionValidateData"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be89a074335e4b9a.json",
+  "parameterValues" : [ ]
+}

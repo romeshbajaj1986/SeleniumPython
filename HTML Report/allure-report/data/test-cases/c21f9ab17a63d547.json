@@ -1,0 +1,56 @@
+{
+  "uid" : "c21f9ab17a63d547",
+  "name" : "test_DataDrivenA[data2]",
+  "fullName" : "TCDataDriven.test_TC01DataDriven#test_DataDrivenA",
+  "historyId" : "0a3fdd9f994c702d73df16d25e403f72",
+  "time" : {
+    "start" : 1588562631133,
+    "stop" : 1588562667559,
+    "duration" : 36426
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TCDataDriven"
+  }, {
+    "name" : "suite",
+    "value" : "test_TC01DataDriven"
+  }, {
+    "name" : "host",
+    "value" : "Romesh"
+  }, {
+    "name" : "thread",
+    "value" : "448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TCDataDriven.test_TC01DataDriven"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "['user3', 'user3@gmail.com']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c21f9ab17a63d547.json",
+  "parameterValues" : [ "['user3', 'user3@gmail.com']" ]
+}
